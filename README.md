@@ -10,8 +10,7 @@ Refer to the PDF materials provided for more instructions.
 https://figshare.com/s/208b1614189fcc3adb02
 
 
-If you use any of the resources and/or functions from this repository, please cite the following:
-
+**If you use any of the resources and/or functions from this repository, please cite the following:**
 Ganesan, S., Van Dam, N., Kamboj, S. K., Tsuchiyagaito, A., Sacchet, M. D., Misaki, M., Moffat, B. A., Lorenzetti, V., & Zalesky, A. (2024). High-precision neurofeedback-guided meditation training optimises real-world self-guided meditation practice for well-being. In bioRxiv (p. 2024.10.25.618656). https://doi.org/10.1101/2024.10.25.618656
 
 
